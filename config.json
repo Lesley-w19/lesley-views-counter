@@ -3,30 +3,7 @@
   "advancedMode": "false",
   "language": "en-US",
   "repository": [
-    "hesbon-osoro",
-    "wazimu-views-counter",
-    "restaurant",
-    "tourism-hampi",
-    "messaging-app-frontend",
-    "recipes-homemade",
-    "portfolio-hb",
-    "dating-app-frontend",
-    "chat-app-merng-client",
-    "photo-social-network-client",
-    "social-network-frontend",
-    "video-app",
-    "salad",
-    "agency-site",
-    "pulumi-gcp",
-    "pulumi-azure",
-    "pulumi-first-project",
-    "kubernetes-quickstart",
-    "monte-carlo-pi",
-    "fullstack-banking-app",
-    "reactshop",
-    "facebook-solana-blockchain",
-    "Learn-React-with-TypeScript-3",
-    "physics-ball-simulation",
-    "repository-search"    
+    "Lesley-w19",
+    "lesley-views-counter"
   ]
 }
